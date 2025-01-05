@@ -1,0 +1,1 @@
+This is a repository destinated to store code that i made while training at Microsoft Learn Platform
