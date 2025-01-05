@@ -1,0 +1,15 @@
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/bin/Debug/net9.0/console-project
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/bin/Debug/net9.0/console-project.deps.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/bin/Debug/net9.0/console-project.runtimeconfig.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/bin/Debug/net9.0/console-project.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/bin/Debug/net9.0/console-project.pdb
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.AssemblyInfoInputs.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.AssemblyInfo.cs
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.csproj.CoreCompileInputs.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.sourcelink.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/refint/console-project.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.pdb
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/console-project.genruntimeconfig.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/console-project/obj/Debug/net9.0/ref/console-project.dll

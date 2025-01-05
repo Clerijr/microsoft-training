@@ -1,0 +1,15 @@
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/clerivaldo/projetos_dev/testes tecnicos/microsoft-training/csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
