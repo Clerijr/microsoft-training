@@ -1,20 +1,13 @@
-﻿int[] numbers = [4, 8, 15, 16, 23, 42];
-bool found = false;
-int total = 0;
-foreach (int number in numbers)
+﻿string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] orderArr = orderStream.Split(',');
+Array.Sort(orderArr);
+
+foreach (string order in orderArr)
 {
-    total += number;
-    if (number == 42)
+    if (order.Length != 4)
     {
-        found = true;
-
+        Console.WriteLine($"{order}: {order.Length} - Error");
+    } else {
+        Console.WriteLine($"{order}: {order.Length}");
     }
-
 }
-
-if (found)
-{
-    Console.WriteLine("Set contains 42");
-}
-
-Console.WriteLine($"Total: {total}");
